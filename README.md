@@ -36,3 +36,5 @@ Complementei as funções criadas dentro da pasta `src` e criei testes para as f
 <summary><strong>🗣 Me dê feedbacks sobre o projeto!</strong></summary><br />
 </details>
 ---
+
+</details>
