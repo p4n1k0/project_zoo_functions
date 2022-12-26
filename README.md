@@ -17,8 +17,6 @@
 </details>
 	
 # Orientações
-
- O que foi desenvolvido
 Complementei as funções criadas dentro da pasta `src` e criei testes para as funções já prontas `handlerElephants` e `getOpeningHours`.
 
 🗣 Me dê feedbacks sobre o projeto!
