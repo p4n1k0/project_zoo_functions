@@ -10,7 +10,7 @@
 
   E não parei por aí! 🤩 
   
-  Projeto orientado a testes para ajudar a garantir um código de qualidade. Para isso, implementei testes para funções já existentes, percebendo os casos de uso de minha aplicação e garantindo que ela está funcionando da maneira correta! 🚀 
+  Testes ajudam a garantir um código de qualidade. Para isso, implementei testes para funções já existentes, percebendo os casos de uso de minha aplicação e garantindo que ela está funcionando da maneira correta! 🚀 
 
 <br />
 
