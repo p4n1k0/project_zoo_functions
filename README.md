@@ -4,15 +4,13 @@
 <details>
 <summary><strong>🧑‍💻 O que foi desenvolvido</strong></summary><br />
 
-  Com minhas habilidades com `ES6`, `Higher Order Functions` e testes. Organizar as informações de um zoológico! 🐘
+  Com minhas habilidades com `ES6`, `Higher Order Functions` e testes. Organizei as informações de um zoológico! 🐘
   
-  Desenvolvi funções que buscam informações sobre os animais do zoológico como: espécie e local de origem. Além disso, buscam dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. 🧑‍🌾
+  Desenvolvi funções que buscam informações sobre os animais do zoológico como: espécie e local de origem. Além disso, busca de dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. 🧑‍🌾
 
-  E não para por aí! 🤩
-
-  Você já aprendeu sobre a importância de ter uma mentalidade orientada a testes, não é mesmo? E também já sabe como a implementação de testes contribui para a escrita de códigos mais confiáveis e com boa performance. 
+  E não para por aí! 🤩 
   
-  Projeto orientado a testes para ajudar a garantir um código de qualidade. Para isso, implementei testes para funções já existentes, percebendo os casos de uso da sua aplicação e garantindo que ela está funcionando da maneira correta! 🚀 
+  Desenvolvimento orientado a testes para ajudar a garantir um código de qualidade. Para isso, implementei testes para funções já existentes, percebendo os casos de uso da sua aplicação e garantindo que ela está funcionando da maneira correta! 🚀 
 
 <br />
 
@@ -21,7 +19,7 @@
 # Orientações
 	
 <details>
-Para executar e acompanhar a implementação da sua cobertura de testes, rode o comando abaixo:
+Para executar e acompanhar a implementação da cobertura de testes, rode o comando abaixo:
 
 ```bash
 npm run test:coverage
@@ -30,7 +28,7 @@ npm run test:coverage
 <details>
 <summary><strong>🏪 O que foi desenvolvido </strong></summary><br />
 
-Complementei as funções criadas dentro da pasta `src` e criaei testes para as funções já prontas `handlerElephants` e `getOpeningHours`.
+Complementei as funções criadas dentro da pasta `src` e criei testes para as funções já prontas `handlerElephants` e `getOpeningHours`.
 	
 </details>	
 	
