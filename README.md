@@ -2,7 +2,7 @@
 
 	
 <details>
-<summary><strong>🧑‍💻 O que foi desenvolvido</strong></summary><br />
+🧑‍💻 O que foi desenvolvido<br />
 
   Com minhas habilidades com `ES6`, `Higher Order Functions` e testes. Organizei as informações de um zoológico! 🐘
   
