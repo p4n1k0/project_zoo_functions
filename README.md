@@ -24,9 +24,8 @@ Para executar e acompanhar a implementação da cobertura de testes, rode o coma
 ```bash
 npm run test:coverage
 
-<strong>🏪 O que foi desenvolvido </strong><br />
-
+ O que foi desenvolvido
 Complementei as funções criadas dentro da pasta `src` e criei testes para as funções já prontas `handlerElephants` e `getOpeningHours`.
 
-<strong>🗣 Me dê feedbacks sobre o projeto!</strong><br />
+🗣 Me dê feedbacks sobre o projeto!
 ---
