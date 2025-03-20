@@ -8,9 +8,7 @@ function countEntrants(entrants) {
 }
 
 function calculateEntry(entrants) {
-  if (!entrants || Object.keys(entrants).length === 0) {
-    return 0; // Retorna 0 caso parâmetro esteja vazio ou se caso um objeto vazio for passado como parâmetro
-  }
+  if (!entrants || Object.keys(entrants).length === 0) return 0; // Retorna 0 caso parâmetro esteja vazio ou se caso um objeto vazio for passado como parâmetro
   const resultCountEntrants = countEntrants(entrants);
   const valueChildrens = resultCountEntrants.child * prices.child;
   const valueAdults = resultCountEntrants.adult * prices.adult;
