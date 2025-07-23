@@ -1,6 +1,6 @@
 const getSpeciesByIds = require('../src/getSpeciesByIds');
 
-describe('1 - Crie uma função que busca as espécies de animais por id', () => {
+describe('1 - Função que busca as espécies de animais por id', () => {
     it('caso receba nenhum parâmetro, necessário retornar um array vazio', () => {
         const actual = getSpeciesByIds();
         const expected = [];
